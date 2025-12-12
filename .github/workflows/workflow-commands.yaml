@@ -1,4 +1,4 @@
-name: Workflow cCommands
+name: Workflow Commands
 on: [push]
 
 jobs:
